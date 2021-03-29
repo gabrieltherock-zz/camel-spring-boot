@@ -1,0 +1,110 @@
+
+<?xml version="1.0"?>
+<Orders>
+    <Order>
+        <Id>31267122783</Id>
+        <Address>
+            <Name>Olivia Johnson</Name>
+            <Street>183 Steel Avenue</Street>
+            <City>Springfield</City>
+            <State>PA</State>
+            <Zip>278102</Zip>
+            <Country>USA</Country>
+        </Address>
+        <Items>
+            <Item>
+                <ProductName>Lawnmower</ProductName>
+                <Quantity>1</Quantity>
+                <USPrice>148.95</USPrice>
+                <Comment>Confirm this is electric</Comment>
+            </Item>
+            <Item>
+                <ProductName>Baby Monitor</ProductName>
+                <Quantity>2</Quantity>
+                <USPrice>39.98</USPrice>
+                <ShipDate>1999-05-21</ShipDate>
+            </Item>
+        </Items>
+    </Order>
+    <Order>
+        <Id>31267122784</Id>
+        <Address>
+            <Name>Emma Smith</Name>
+            <Street>8492 4th Avenue</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>127831</Zip>
+            <Country>USA</Country>
+        </Address>
+        <Items>
+            <Item>
+                <ProductName>Smart TV</ProductName>
+                <Quantity>1</Quantity>
+                <USPrice>1293.95</USPrice>
+                <Comment>Confirm this is electric</Comment>
+            </Item>
+            <Item>
+                <ProductName>Xbox One S</ProductName>
+                <Quantity>2</Quantity>
+                <USPrice>239.98</USPrice>
+                <ShipDate>1999-05-21</ShipDate>
+            </Item>
+            <Item>
+                <ProductName>Forza Horizon 4</ProductName>
+                <Quantity>1</Quantity>
+                <USPrice>39.98</USPrice>
+                <ShipDate>1999-05-21</ShipDate>
+            </Item>
+        </Items>
+    </Order>
+    <Order>
+        <Id>31267122785</Id>
+        <Address>
+            <Name>John Parker</Name>
+            <Street>123 Green Street</Street>
+            <City>Old Town</City>
+            <State>NY</State>
+            <Zip>23182</Zip>
+            <Country>USA</Country>
+        </Address>
+        <Items>
+            <Item>
+                <ProductName>Washing-Machine</ProductName>
+                <Quantity>1</Quantity>
+                <USPrice>948.95</USPrice>
+                <Comment>Confirm this is electric</Comment>
+            </Item>
+            <Item>
+                <ProductName>Dryer Machine</ProductName>
+                <Quantity>1</Quantity>
+                <USPrice>843.98</USPrice>
+                <ShipDate>1999-05-21</ShipDate>
+            </Item>
+        </Items>
+    </Order>
+    <Order>
+        <Id>31267122786</Id>
+        <Address>
+            <Name>Tai Yee</Name>
+            <Street>212 Wood Avenue</Street>
+            <City>Lake City</City>
+            <State>TX</State>
+            <Zip>28919</Zip>
+            <Country>USA</Country>
+        </Address>
+        <Items>
+            <Item>
+                <ProductName>Notebook</ProductName>
+                <Quantity>1</Quantity>
+                <USPrice>448.95</USPrice>
+                <Comment>Confirm this is electric</Comment>
+            </Item>
+            <Item>
+                <ProductName>Monitor</ProductName>
+                <Quantity>2</Quantity>
+                <USPrice>39.98</USPrice>
+                <ShipDate>1999-05-21</ShipDate>
+            </Item>
+        </Items>
+    </Order>
+</Orders>
